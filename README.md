@@ -7,11 +7,11 @@
 <tr>
 <td width="58%">
   
-- 🤖 I’m currently a SRE working in Beijing, China.
-- 👨‍💻 I’m currently learning Golang，Python，Devops，Cloud Native，JS & TS、Vue、React，etc...
+- 🤖 I’m currently a student in Changsha, China.
+- 👨‍💻 I’m currently learning Java，Python，Cpp，JS & TS、Vue、React，etc...
 - ✍️ [MyBlog](https://chegva.com)
 - 💬 Ask me about Anything you want~
-- 📫 Reach me: [email](mailto:huanguang-z@foxmail.com)
+- 📫 Reach me: [email](mailto:zwr8996@163.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/huanguang-z?label=follow%20me&style=social)](https://github.com/huanguang-z/)
 - 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
 
