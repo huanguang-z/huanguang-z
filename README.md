@@ -19,7 +19,7 @@
 
 </td>
 <td width="42%">
-<img src="https://github.com/huanguang-z/huanguang-z/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="500" height="280">
+<img src="https://github.com/huanguang-z/huanguang-z/blob/main/workflows/Le%20Petit%20Prince.gif" width="500" height="280">
 </td>
 </tr>
 </table>
@@ -35,7 +35,6 @@
   <br>
 
 #### 🐍 [Contributions](https://raw.githubusercontent.com/huanguang-z/huanguang-z/main/assets/github-contribution-grid-snake.svg)
-
 ![](https://raw.githubusercontent.com/huanguang-z/huanguang-z/main/assets/github-contribution-grid-snake.svg)
 
 </td>
