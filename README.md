@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td width="58%">
+<td width="99%">
   
 - 🤖 I’m currently a student in Changsha, China.
 - 👨‍💻 I’m currently learning Java，Python，Cpp，Machine Learning，etc...
@@ -17,11 +17,6 @@
 **「Seek for magic light」** ❤️
 
 </td>
-<td width="42%">
-<img src="https://github.com/huanguang-z/huanguang-z/blob/main/workflows/Le%20Petit%20Prince.gif" width="500" height="280">
-</td>
-</tr>
-</table>
 
 🏆 **my github stats:**
 
