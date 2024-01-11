@@ -9,7 +9,7 @@
 - 🤖 I’m currently a student in Changsha, China.
 - 👨‍💻 I’m currently learning Java，Python，Cpp，Machine Learning，etc...
 - ✍️ [MyBlog](https://zwr8996.com)
-- 💬 Ask me about Anything you want to know
+- 💬 Ask me about anything you want to know
 - 📫 Reach me: [email](mailto:zwr8996@163.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/huanguang-z?label=follow%20me&style=social)](https://github.com/huanguang-z/)
 - 🎣 Fun fact: Reading, poetry, watching movies, traveling,  thinking and so on.
