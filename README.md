@@ -38,9 +38,9 @@
 
 #### ✏️ [Recent Blog](https://chegva.com)
 
+- [专业核心课学习心得 - 2024-01-17](https://chegva.com/5744.html)
 - [数学建模经历介绍 - 2023-11-18](https://www.zwr8996.com/2023/%e6%95%b0%e5%ad%a6%e5%bb%ba%e6%a8%a1%e7%bb%8f%e5%8e%86%e4%bb%8b%e7%bb%8d/%e6%95%b0%e5%ad%a6%e5%bb%ba%e6%a8%a1/)
 - [课程项目学习经历 - 2023-11-27](https://www.zwr8996.com/2023/projectlearning/project/)
-- [Mysql update语句使用子查询 - 2023-07-06](https://chegva.com/5744.html)
 - [Linux终端命令神器 Screen 使用 - 2023-07-05](https://chegva.com/5741.html)
 - [MacBook M1 使用 Android 模拟器 - 2023-07-01](https://chegva.com/5739.html)
 </td>
